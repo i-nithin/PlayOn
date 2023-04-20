@@ -1,0 +1,19 @@
+.profile-menu {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  font-size: 1.1rem;
+  width: 100%;
+  border: 1px solid var(--color-overlay-100);
+}
+
+.profile-menu-li {
+  padding: 1rem;
+}
+.profile-page-main {
+  width: 80%;
+}
+.profile-menu-li:hover {
+  background-color: var(--gray-200);
+}
