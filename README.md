@@ -2,7 +2,7 @@
 
 Ecommerce store for all your sports wear 
 
-Deployed App : [https://PlayOn.netlify.app/](https://play-on.netlify.app/)
+Deployed App : [https://play-on.netlify.app/](https://play-on.netlify.app/)
 
 ## Features
 1. Featured Categories
