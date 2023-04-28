@@ -23,7 +23,7 @@ Deployed App : [https://PlayOn.netlify.app/](https://play-on.netlify.app/)
 
 Clone the repo
 ```bash
- $ git clone https://github.com/narharikale/PlayOn.git
+ $ git clone https://github.com/i-nithin/PlayOn.git
 ```
 Go to project directory
 ```bash
