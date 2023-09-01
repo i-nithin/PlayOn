@@ -24,7 +24,7 @@ function Home() {
         <section className="hero-img d-flex justify-center">
           <img
             className="responsive-img obj-fit-cover"
-            src="https://i.ibb.co/dBchHR6/homepage-Banner1.jpg"
+            src="https://i.ibb.co/YD6pD04/show-Home5.jpg"
             alt="hero"
           />
           <div className="hero-overlay d-flex align-center container">
